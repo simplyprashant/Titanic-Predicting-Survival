@@ -12,7 +12,7 @@ In this project, I have used supervised machine learning models to predict the s
 
 ## Method
 
-* Importing the training csv data.
+* Importing the csv data.
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
 * Data preprocessing for model fitting
